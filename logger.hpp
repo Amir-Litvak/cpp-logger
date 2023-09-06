@@ -13,7 +13,7 @@
 #define nullptr 0
 #endif
 
-namespace ilrd
+namespace logger
 {
     class Logger
     {

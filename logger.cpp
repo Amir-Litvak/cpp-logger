@@ -4,7 +4,7 @@
 
 #include "logger.hpp"
 
-namespace ilrd
+namespace logger
 {
     class Log : public Task
     {
